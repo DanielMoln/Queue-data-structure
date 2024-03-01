@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1709301578 source:c:\users\danielmolnar\onedrive\desktop\tanulas\queueimplementation\main.cpp
+	<iostream>
+	"queue.h"
+
+1709300796 c:\users\danielmolnar\onedrive\desktop\tanulas\queueimplementation\queue.h
+
+1709301655 source:c:\users\danielmolnar\onedrive\desktop\tanulas\queueimplementation\intqueue.cpp
+	"queue.h"
+	<iostream>
+
